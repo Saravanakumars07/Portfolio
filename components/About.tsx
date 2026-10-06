@@ -10,7 +10,7 @@ const About: React.FC = () => {
           
          <div className="order-2 md:order-1">
   <div className="inline-block px-3 py-1 mb-4 text-xs font-semibold tracking-wider text-indigo-600 dark:text-indigo-400 uppercase bg-indigo-50 dark:bg-indigo-900/30 rounded-full">
-    About Me — Full Stack Developernpm run dev
+    About Me — Full Stack Developer
     
   </div>
 
@@ -74,7 +74,7 @@ const About: React.FC = () => {
     <div className="absolute inset-0 bg-slate-900 rounded-2xl -rotate-6 group-hover:-rotate-3 transition-transform duration-300 opacity-10"></div>
     <img 
       src="https://files.media2url.com/free/4669645f3cbd4a.jpg"
-      alt="SARAVANAKUMAR S - Software Developer MERN"
+      alt="SARAVANAKUMAR S - Software Developer"
       className="relative w-full h-full object-cover object-top rounded-2xl shadow-xl"
     />
   </div>

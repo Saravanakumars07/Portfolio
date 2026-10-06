@@ -38,7 +38,7 @@ const About: React.FC = () => {
             <div className="flex flex-wrap gap-4 mt-6 mb-8">
               <a 
                 href="/Saravanakumar.pdf" 
-                download="Saravanakumar_S_Software_Developer_Resume.pdf"
+                download="Saravanakumar_S_Resume.pdf"
                 className="inline-flex items-center gap-2 px-6 py-3 bg-indigo-600 text-white rounded-full font-semibold hover:bg-indigo-700 transition shadow-lg shadow-indigo-500/20"
               >
                 <Download size={18} /> Download Resume

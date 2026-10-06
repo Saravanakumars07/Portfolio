@@ -1,0 +1,1 @@
+Please place your about image here and name it: about.jpg

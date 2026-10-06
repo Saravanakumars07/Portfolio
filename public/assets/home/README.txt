@@ -1,0 +1,1 @@
+Please place your profile image here and name it: profile.jpg

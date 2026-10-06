@@ -12,8 +12,6 @@ export interface Project {
   video?: string;
   githubLink: string;
   liveLink?: string;
-  downloadLink?: string;
-  // make optional for your current constants.ts
   tech?: string[];
   github?: string;
   live?: string;

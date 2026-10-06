@@ -36,13 +36,13 @@ const About: React.FC = () => {
 
             
             <div className="flex flex-wrap gap-4 mt-6 mb-8">
-              <a 
+              {/* <a 
                 href="/Saravanakumar.pdf" 
                 download="Saravanakumar_S_Resume.pdf"
                 className="inline-flex items-center gap-2 px-6 py-3 bg-indigo-600 text-white rounded-full font-semibold hover:bg-indigo-700 transition shadow-lg shadow-indigo-500/20"
               >
                 <Download size={18} /> Download Resume
-              </a>
+              </a> */}
               <a 
                 href="#projects" 
                 className="inline-flex items-center gap-2 px-6 py-3 bg-slate-100 dark:bg-slate-800 text-slate-900 dark:text-white rounded-full font-semibold hover:bg-slate-200 dark:hover:bg-slate-700 transition"

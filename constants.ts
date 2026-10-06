@@ -2,11 +2,11 @@ import { Project, EducationItem, Skill, ExperienceItem } from './types';
 
 export const PERSONAL_DETAILS = {
   name: "SARAVANAKUMAR S",
-  role: "Full Stack Developer | MERN Stack | DevOps Engineer",
+  role: "Full Stack Developer | DevOps Engineer",
   phone: "+91 9787665899",
   location: "Chennai, India",
   email: "ssaravanakumarsk07@gmail.com",
-  about: "Full Stack Developer with 4+ years IT experience in MERN Stack, DevOps, AWS, building platforms with 99.9% uptime.",
+  about: "Full Stack Developer with 4+ years IT experience in DevOps, AWS, building platforms with 99.9% uptime.",
   linkedin: "https://www.linkedin.com/in/saravanakumar-sk-s/",
   github: "https://github.com/Saravanakumars07"
 };

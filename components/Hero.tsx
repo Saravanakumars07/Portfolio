@@ -51,14 +51,7 @@ const Hero: React.FC = () => {
           </div>
 
           <div className="flex flex-wrap justify-center md:justify-start gap-4 pt-4 animate-fade-in-up delay-500">
-            <a 
-              href="/resume.pdf" 
-              download
-              className="flex items-center gap-2 bg-indigo-600 text-white px-6 py-3 rounded-full font-semibold hover:bg-indigo-700 dark:hover:bg-indigo-500 transition-all hover:scale-105 shadow-md"
-            >
-              <Download size={20} />
-              Download Resume
-            </a>
+            
             
             <div className="flex gap-3">
               <a 

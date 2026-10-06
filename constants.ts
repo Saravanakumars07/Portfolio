@@ -34,7 +34,8 @@ export const PROJECTS: Project[] = [
 ];
 
 export const EDUCATION: EducationItem[] = [
-  { id: '1', institution: "Anna University", degree: "Bachelor of Engineering", stream: "Computer Science Engineering", years: "2019 - 2023" }
+  { id: '1', institution: "University of Madras", degree: "Bachelor of Science", stream: "Computer Science ", years: "2021 - 2023" },
+   { id: '2', institution: "Polytechnic College", degree: "Diploma", stream: "Electrical and Electronics Engineering", years: "2014 - 2017" },
 ];
 
 export const EXPERIENCES: ExperienceItem[] = [

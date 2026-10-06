@@ -1,5 +1,5 @@
 import React from 'react';
-import { PERSONAL_DETAILS } from '../constants';
+import { PERSONAL_DETAILS } from '../constants'
 import { Download, Code2 } from 'lucide-react';
 
 const About: React.FC = () => {
@@ -10,7 +10,8 @@ const About: React.FC = () => {
           
          <div className="order-2 md:order-1">
   <div className="inline-block px-3 py-1 mb-4 text-xs font-semibold tracking-wider text-indigo-600 dark:text-indigo-400 uppercase bg-indigo-50 dark:bg-indigo-900/30 rounded-full">
-    About Me — Full Stack Developer
+    About Me — Full Stack Developernpm run dev
+    
   </div>
 
   <h2 className="text-3xl md:text-4xl font-bold text-slate-900 dark:text-white mb-6">

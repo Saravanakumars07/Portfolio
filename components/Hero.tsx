@@ -50,9 +50,7 @@ const Hero: React.FC = () => {
              </div>
           </div>
 
-          <div className="flex flex-wrap justify-center md:justify-start gap-4 pt-4 animate-fade-in-up delay-500">
-            
-            
+          
             <div className="flex gap-3">
               <a 
                 href={PERSONAL_DETAILS.linkedin} 
@@ -74,7 +72,7 @@ const Hero: React.FC = () => {
           </div>
         </div>
 
-      </div>
+      
     </section>
   );
 };

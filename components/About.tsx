@@ -73,7 +73,7 @@ const About: React.FC = () => {
     <div className="absolute inset-0 bg-indigo-600 rounded-2xl rotate-6 group-hover:rotate-3 transition-transform duration-300 opacity-20"></div>
     <div className="absolute inset-0 bg-slate-900 rounded-2xl -rotate-6 group-hover:-rotate-3 transition-transform duration-300 opacity-10"></div>
     <img 
-      src="https://files.media2url.com/free/4669645f3cbd4a.jpg"
+      src="https://files.media2url.com/free/d6e57d8ca73b47.jpg"
       alt="SARAVANAKUMAR S - Software Developer"
       className="relative w-full h-full object-cover object-top rounded-2xl shadow-xl"
     />

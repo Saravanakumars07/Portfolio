@@ -32,7 +32,7 @@ const About: React.FC = () => {
   </p>
 
   <p className="text-sm text-slate-500 dark:text-slate-400 mb-6">
-    <strong>Core:</strong> JavaScript • TypeScript • React.js • Node.js • Express • MongoDB • MySQL • REST APIs • JWT • Socket.io • Redux • Tailwind • Git • Docker • AWS/Vercel • DSA
+    <strong>Core:</strong> JavaScript • TypeScript • React.js • Node.js • Python(Basic)• Express • MongoDB • MySQL • REST APIs • JWT • Socket.io • Redux • Tailwind • Git • Docker • AWS/Vercel • DSA
   </p>
 
             

@@ -19,6 +19,7 @@ const Hero: React.FC = () => {
               alt="Saravanakumar S"
               className="relative w-[320px] h-[320px] md:w-[400px] md:h-[400px] object-cover rounded-full shadow-2xl"
             />
+            
           </div>
         </div>
 

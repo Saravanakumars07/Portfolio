@@ -34,7 +34,6 @@ const About: React.FC = () => {
   <p className="text-sm text-slate-500 dark:text-slate-400 mb-6">
     <strong>Core:</strong> JavaScript • TypeScript • React.js • Node.js • Python(Basic)• Express • MongoDB • MySQL • REST APIs • JWT • Socket.io • Redux • Tailwind • Git • Docker • AWS/Vercel • DSA
   </p>
-
             
             <div className="flex flex-wrap gap-4 mt-6 mb-8">
               <a 

@@ -15,7 +15,7 @@ const Hero: React.FC = () => {
           <div className="relative">
             <div className="absolute -inset-6 bg-indigo-600/30 rounded-full blur-2xl"></div>
             <img
-              src="https://avatars.githubusercontent.com/u/154059864?v=4"
+              src="https://i.imgur.com/Saravanakumar.jpg"
               alt="Saravanakumar S"
               className="relative w-[320px] h-[320px] md:w-[400px] md:h-[400px] object-cover rounded-full shadow-2xl"
             />

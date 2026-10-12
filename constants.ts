@@ -16,6 +16,7 @@ export const SKILLS: Skill[] = [
   { name: "React.js / Next.js", percentage: 92 },
   { name: "Node.js / Express.js", percentage: 88 },
   { name: "MongoDB / MySQL", percentage: 85 },
+  { name: "Python (Basic)", percentage: 75 },
   { name: "AWS (EC2, ELB, IAM, VPC)", percentage: 80 },
   { name: "Docker / Kubernetes / Jenkins", percentage: 82 },
   { name: "Git / GitHub", percentage: 90 }
